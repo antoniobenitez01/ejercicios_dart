@@ -8,7 +8,7 @@ void main()
 {
     int n = 50;
     int suma = 0;
-    for(var i = 0;i<n;i++)
+    for(var i = 0;i<n+1;i++)
     {
         suma += i;
     }
